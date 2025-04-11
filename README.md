@@ -2,12 +2,9 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/tajay49/)
+  - [Active Directory Home Lab](https://github.com/Tajay49/Tajay-Samms)
   - [Phishing Email Job Simulation by Mastercard](https://github.com/Tajay49/Phishing-Email-job-Similation-by-Mastercard)
-    
-- <b> Lets Defend (EDR, Log Management, SIEM, and SOAR) IOC Practice</b>
-  - [How to Use these tools](https://github.com/tajay49/) <b><i>(Search And Quaratine End Devices)</b></i>
-  
+- <b> [LetsDefend](https://github.com/Tajay49/Tajay-Samms) SOC (Security Operations Center) Analyst Pathway
 - <h2>Certifications</h2>
 
   - [CompTIA Security+ (SYO-701)](https://github.com/tajay49/)
