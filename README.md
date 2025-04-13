@@ -5,6 +5,8 @@
   - [Active Directory Home Lab](https://github.com/Tajay49/Active-directory)
   - [Phishing Email Job Simulation by Mastercard](https://github.com/Tajay49/Phishing-Email-job-Similation-by-Mastercard)
 - <b> [LetsDefend](https://github.com/Tajay49/Tajay-Samms) SOC (Security Operations Center) Analyst Pathway
+- [Microsoft Sentinel/home SOC](https://github.com/Tajay49/Tajay-Samms)
+  
 - <h2>Certifications</h2>
 
   - [CompTIA Security+ (SYO-701)](https://github.com/tajay49/)
@@ -14,7 +16,7 @@
 
 <h2></h2>
 
-- 🔭 I’m currently working on My cybersecurity projects
+- 🔭 I’m currently working on My cybersecurity projects (learning how github code work while updating each repo)
 - 🌱 I’m currently learning Blue team level 1
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
