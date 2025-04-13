@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Tajay49/Tajay-Samms)
+  - [Active Directory Home Lab](https://github.com/Tajay49/Active-directory)
   - [Phishing Email Job Simulation by Mastercard](https://github.com/Tajay49/Phishing-Email-job-Similation-by-Mastercard)
 - <b> [LetsDefend](https://github.com/Tajay49/Tajay-Samms) SOC (Security Operations Center) Analyst Pathway
 - <h2>Certifications</h2>
