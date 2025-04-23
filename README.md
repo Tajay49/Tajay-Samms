@@ -31,7 +31,7 @@ Welcome to my cybersecurity portfolio! I'm a certified cybersecurity professiona
 - Performed phishing analysis, malware triage, and SIEM alert review
 - Developed incident response documentation
 
-### 🌐 [Telstra SOC Simulation](https://github.com/Tajay49/)
+### 🌐 [Telstra SOC Simulation](https://github.com/Tajay49/Telstra-SOC-Simulation/tree/main)
 - Monitored and documented security events
 - Practiced Tier 1 SOC tasks and escalation
 
