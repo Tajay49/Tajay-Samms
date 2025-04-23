@@ -8,9 +8,9 @@ Welcome to my cybersecurity portfolio! I'm a certified cybersecurity professiona
 
 | Certification | Issuer | Date |
 |---------------|--------|------|
-| !Security+ Badge| CompTIA Security+ (SY0-701) | June 2024 |
-| !Network+ Badge | CompTIA Network+ (N10-009) | March 2025 |
-| !Splunk Badge | Splunk Fundamentals 1 | 2025 |
+| Security+ Badge| CompTIA Security+ (SY0-701) | June 2024 |
+| Network+ Badge | CompTIA Network+ (N10-009) | March 2025 |
+| Splunk Badge | Splunk Fundamentals 1 | 2025 |
 | Microsoft Windows Defender & Firewall | Microsoft | 2024 |
 | AWS Cloud Practitioner | In progress | 2025 |
 
