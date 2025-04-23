@@ -27,7 +27,7 @@ Welcome to my cybersecurity portfolio! I'm a certified cybersecurity professiona
 - Real-time alert triage, log analysis, and threat investigation
 - Used SIEM tools and playbooks to detect and escalate threats
 
-### 🛡️ [PwC Switzerland Cybersecurity Simulation](https://github.com/Tajay49/)
+### 🛡️ [PwC Switzerland Cybersecurity Simulation](https://github.com/Tajay49/-PwC-Switzerland-Cybersecurity-Simulation./tree/main)
 - Performed phishing analysis, malware triage, and SIEM alert review
 - Developed incident response documentation
 
