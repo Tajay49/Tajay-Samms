@@ -23,7 +23,7 @@ Welcome to my cybersecurity portfolio! I'm a certified cybersecurity professiona
 ###   [Active Directory Home Lab](https://github.com/Tajay49/Active-directory)
 - Create DC (damain contorler) this includes domain configuration, DHCP, NAT, RAS and a PowerShell script to automate the creation of 1,000 AD users.
   
-### 🔍 [1. Phishing Alert Investigation](https://github.com/Tajay49/https://github.com/Tajay49/1-Phishing-Alert-Investigation-)
+### 🔍 [1. Phishing Alert Investigation](https://github.com/Tajay49/1-Phishing-Alert-Investigation-)
 - Phishing Alreat Investigation
 
 ### 🛡️ [PwC Switzerland Cybersecurity Simulation](https://github.com/Tajay49/-PwC-Switzerland-Cybersecurity-Simulation./tree/main)
