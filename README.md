@@ -24,7 +24,7 @@ Welcome to my cybersecurity portfolio! I'm a certified cybersecurity professiona
 - Create DC (damain contorler) this includes domain configuration, DHCP, NAT, RAS and a PowerShell script to automate the creation of 1,000 AD users.
   
 ### 🔍 [1. Phishing Alert Investigation](https://github.com/Tajay49/1-Phishing-Alert-Investigation-)
-- Phishing Alreat Investigation
+- Phishing alert analysis showcasing SOC investigation workflow
 
 ### 🛡️ [PwC Switzerland Cybersecurity Simulation](https://github.com/Tajay49/-PwC-Switzerland-Cybersecurity-Simulation./tree/main)
 - Performed phishing analysis, malware triage, and SIEM alert review
