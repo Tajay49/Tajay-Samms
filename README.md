@@ -68,7 +68,7 @@ Welcome to my cybersecurity portfolio! I'm a certified cybersecurity professiona
 ---
 ## Connect With Me
  
-- [linkedin](https://www.linkedin.com/in/tajay-samms-a500a1176)  
+- [linkedin](https://www.linkedin.com/in/tajay-samms)  
 - [github](https://github.com/Tajay49/Tajay-Samms)
 
 ---
