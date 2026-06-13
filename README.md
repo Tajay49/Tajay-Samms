@@ -12,7 +12,7 @@ Welcome to my cybersecurity portfolio! I'm a certified cybersecurity professiona
 | Network+ Badge | CompTIA Network+ (N10-009) | March 2025 |
 | Splunk Badge | Splunk Fundamentals 1 | 2025 |
 | Microsoft Windows Defender & Firewall | Microsoft | 2024 |
-|  Certified Ethical Hacker (CEH) certification | In progress | 2025 |
+|  Certified Ethical Hacker (CEH) certification   | 2026 |
 
 > [🔗 View my Credly profile](https://www.credly.com/users/tajay-samms)
 
